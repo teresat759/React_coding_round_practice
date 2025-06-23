@@ -26,3 +26,4 @@ Notes and usage details for React_coding_round_practice.
 - add a note about the defaults
 - fix a small wording issue
 - clarify the setup steps
+- link the usage section
