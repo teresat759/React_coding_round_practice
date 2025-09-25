@@ -33,3 +33,4 @@ Notes and usage details for React_coding_round_practice.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- link the usage section
